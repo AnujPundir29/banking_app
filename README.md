@@ -6,12 +6,12 @@ A Banking app for spark foundation task.
 
 
 
-### Home Page                                                           ### All Customers
-<img src="/images/homepage.jpg" width="300" height="460">               <img src="/images/all_customers.jpg" width="300" height="460" "title-2">
+### Home Page                                                                                         All Customers
+<img src="/images/homepage.jpg" width="300" height="460">               <img src="/images/all_customers.jpg" width="300" height="460">
 
 
 
-### Customer Details                                                    ### Transfer Money
+### Customer Details                                                                              Transfer Money
 <img src="/images/customer_detail.jpg" width="300" height="460">         <img src="/images/transfer.jpg"  width="300" height="460">
 
 
