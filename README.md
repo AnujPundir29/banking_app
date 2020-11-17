@@ -7,7 +7,7 @@ A Banking app for spark foundation task.
 
 
 ### Home Page                                                           ### All Customers
-<img src="/images/homepage.jpg" width="300" height="460">               <img src="/images/all_customers.jpg" width="300" height="460">
+<img src="/images/homepage.jpg" width="300" height="460">               <img src="/images/all_customers.jpg" width="300" height="460" "title-2">
 
 
 
