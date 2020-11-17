@@ -5,15 +5,16 @@ A Banking app for spark foundation task.
 ## App Screenshots
 
 ### Home Page
-<img src="/images/homepage.jpg" width="100" height="100">
+<img src="/images/homepage.jpg" width="400" height="400">
 
 ### All Customers
-![GitHub Logo](/images/all_customers.jpg )
+<img src="/images/all_customers.jpg" width="400" height="400">
 
 ### Customer Details
-![GitHub Logo](/images/customer_detail.jpg)
+<img src="/images/customer_detail.jpg" width="400" height="400">
 
 ### Transfer Money
-![GitHub Logo](/images/transfer.jpg)
+<img src="/images/transfer.jpg" width="400" height="400">
+
 ### Transactions
-![GitHub Logo](/images/list.jpg)
+<img src="/images/list.jpg" width="400" height="400">
