@@ -5,12 +5,11 @@ A Banking app for spark foundation task.
 ## App Screenshots
 
 
-<p float="left">
-### Home Page               
-<img src="/images/homepage.jpg" width="300" height="460">     
 
-### All Customers
-<img src="/images/all_customers.jpg" width="300" height="460">
+### Home Page               
+<img src="/images/homepage.jpg" width="300" height="460">         <img src="/images/all_customers.jpg" width="300" height="460">
+
+
 
 ### Customer Details
 <img src="/images/customer_detail.jpg" width="300" height="460">
@@ -20,4 +19,3 @@ A Banking app for spark foundation task.
 
 ### Transactions
 <img src="/images/list.jpg" width="300" height="460">
-</p>
