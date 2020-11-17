@@ -4,17 +4,17 @@ A Banking app for spark foundation task.
 
 ## App Screenshots
 
-#### Home Page
+### Home Page
 ![GitHub Logo](/images/homepage.jpg)
 
-#### All Customers
+### All Customers
 ![GitHub Logo](/images/all_customers.jpg)
 
-#### Customer Details
+### Customer Details
 ![GitHub Logo](/images/customer_detail.jpg)
 
-#### Transfer Money
+### Transfer Money
 ![GitHub Logo](/images/transfer.jpg)
 
-#### Transactions
+### Transactions
 ![GitHub Logo](/images/list.jpg)
